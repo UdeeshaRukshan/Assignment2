@@ -13,7 +13,10 @@ This document provides detailed documentation for a Retrieval-Augmented Generati
 - [Troubleshooting](#troubleshooting)
 
 ## System Architecture
-
+</br>
+ <img src="Architecture.png" width="200"/>
+ </br>
+ 
 The RAG system uses the following high-level architecture:
 
 1. **Document Loading**: PDF documents are loaded and converted to text.

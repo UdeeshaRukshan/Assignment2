@@ -14,7 +14,7 @@ This document provides detailed documentation for a Retrieval-Augmented Generati
 
 ## System Architecture
 </br>
- <img src="Architecture.png" width="200"/>
+ <img src="frame 1.png" width="200"/>
  </br>
  
 The RAG system uses the following high-level architecture:
